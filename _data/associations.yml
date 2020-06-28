@@ -1,15 +1,4 @@
-# Associations
-# comment out the urls if you do not wish to display them
-
-- organization: Atlants's ConnectHome
-  role: Volunteer
-  year: 2016 &mdash; Present
-  url: http://connecthome.atlantaga.gov/
-  summary: Developed and delivered a Git and GitHub training for secondary education students that created a resume that could use after finishing school.
-
-
-- organization: freeCodeCamp
-  role: Contributor
-  year: 2015 &mdash; Present
-  url: https://www.freecodecamp.org/
-  summary: Contributor to the Git, GraphQL, and CSS content found in the freeCodeCamp curriculum.
+- organization: BSU
+  role: Interpreter
+  year: 2013-2015
+  summary: I took part in such sporting events as the World Championship in kayaking and canoeing, the World Championship in biathlon and many others, as a volunteer interpreter, where performed bilingual translation (English). During these events, I worked as a team host, a member of the accreditation center and a coordinator of participating teams at the airport and hotel.
